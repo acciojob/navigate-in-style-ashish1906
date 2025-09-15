@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+nav {
+      background-color: #D3D3D3;
+      padding: 10px;
+    }
+
+    nav ul {
+      list-style: none; /* remove bullets */
+      margin: 0;
+      padding: 0;
+    }
+
+    nav li {
+      display: inline; /* horizontal layout */
+      margin-right: 1rem;
+    }
