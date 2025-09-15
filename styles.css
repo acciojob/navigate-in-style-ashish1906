@@ -5,12 +5,11 @@ nav {
     }
 
     nav ul {
-      list-style: none; /* remove bullets */
-      margin: 0;
-      padding: 0;
+      list-style: none; 
+      
     }
 
     nav li {
-      display: inline; /* horizontal layout */
+      display: inline; 
       margin-right: 1rem;
     }
